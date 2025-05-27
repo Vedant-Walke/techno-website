@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.carousel-item img{
+    height: 80vh;
+    width: 100%;
+
+}
+
+.accordion-item{
+    width: 99%;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.row{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.box{
+    height: 20vh;
+    width: 40%;
+}
